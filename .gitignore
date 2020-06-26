@@ -1,0 +1,5 @@
+.env
+common/migrations/
+db.sqlite3
+static/images/users/
+ENV/
